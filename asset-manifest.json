@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/namelygram/static/css/main.69cebd85.css",
+    "main.js": "/namelygram/static/js/main.f882f8a8.js",
+    "index.html": "/namelygram/index.html",
+    "main.69cebd85.css.map": "/namelygram/static/css/main.69cebd85.css.map",
+    "main.f882f8a8.js.map": "/namelygram/static/js/main.f882f8a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69cebd85.css",
+    "static/js/main.f882f8a8.js"
+  ]
+}
